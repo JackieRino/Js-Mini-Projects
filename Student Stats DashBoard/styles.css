@@ -1,0 +1,32 @@
+body {
+    border: 10px solid red;
+    margin: left;
+    padding: 20px;
+    display: flex;
+
+    width: 100vw;
+    height: 100vh;
+
+}
+
+#partOne {
+display: inline;
+width: 50vh;
+padding:5px;
+
+   
+}
+
+
+#partTwo {
+  border: 2px solid black;
+  display: inline;
+  padding: 20px;
+  width: 50vh;
+  
+}
+
+#searchInput{
+    display: block;
+    margin: auto;
+}
